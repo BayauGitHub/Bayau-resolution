@@ -1,3 +1,5 @@
 test input
 test read
 test edit
+test delete
+test update
