@@ -1,8 +1,7 @@
 next js
  -bootstrap
-
 laravel 9
 javascript
- -es6
+ -es8
  -fundamental data structure
-docker
+spring boot
