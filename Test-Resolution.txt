@@ -1,5 +1,5 @@
 test input
 test read
 test edit
-test delete
 test update
+test update status ke delete
