@@ -5,4 +5,7 @@ laravel 9
 javascript
  -es6
  -fundamental data structure
+PHP Framework
 docker
+Python
+React JS
