@@ -1,6 +1,8 @@
 next js
  -bootstrap
+
 laravel 9
 javascript
  -es6
+ -fundamental data structure
 docker
